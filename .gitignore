@@ -1,0 +1,17 @@
+# Binaries
+chat_irc
+irc_client
+
+# Object files
+*.o
+
+# Debug
+*.log
+core
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
